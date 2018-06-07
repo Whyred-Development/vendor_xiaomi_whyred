@@ -1,5 +1,0 @@
-<permissions>
-    <library
-        name="version-seperation-dev"
-        file="/system/framework/version-seperation.jar" />
-</permissions>
