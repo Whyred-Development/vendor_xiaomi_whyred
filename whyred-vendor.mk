@@ -760,22 +760,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/lib/libFileMux.so:system/lib/libFileMux.so \
     vendor/xiaomi/whyred/proprietary/lib/libGPTEE_system.so:system/lib/libGPTEE_system.so \
     vendor/xiaomi/whyred/proprietary/lib/libQTEEConnector_system.so:system/lib/libQTEEConnector_system.so \
-    vendor/xiaomi/whyred/proprietary/lib/libaaudio.so:system/lib/libaaudio.so \
-    vendor/xiaomi/whyred/proprietary/lib/libaaudioservice.so:system/lib/libaaudioservice.so \
-    vendor/xiaomi/whyred/proprietary/lib/libaudio-resampler.so:system/lib/libaudio-resampler.so \
-    vendor/xiaomi/whyred/proprietary/lib/libaudioclient.so:system/lib/libaudioclient.so \
-    vendor/xiaomi/whyred/proprietary/lib/libaudioeffect_jni.so:system/lib/libaudioeffect_jni.so \
-    vendor/xiaomi/whyred/proprietary/lib/libaudioflinger.so:system/lib/libaudioflinger.so \
-    vendor/xiaomi/whyred/proprietary/lib/libaudiohal.so:system/lib/libaudiohal.so \
-    vendor/xiaomi/whyred/proprietary/lib/libaudiomanager.so:system/lib/libaudiomanager.so \
-    vendor/xiaomi/whyred/proprietary/lib/libaudiopolicyenginedefault.so:system/lib/libaudiopolicyenginedefault.so \
-    vendor/xiaomi/whyred/proprietary/lib/libaudiopolicymanager.so:system/lib/libaudiopolicymanager.so \
-    vendor/xiaomi/whyred/proprietary/lib/libaudiopolicymanagerdefault.so:system/lib/libaudiopolicymanagerdefault.so \
-    vendor/xiaomi/whyred/proprietary/lib/libaudiopolicyservice.so:system/lib/libaudiopolicyservice.so \
-    vendor/xiaomi/whyred/proprietary/lib/libaudioprocessing.so:system/lib/libaudioprocessing.so \
-    vendor/xiaomi/whyred/proprietary/lib/libaudioroute.so:system/lib/libaudioroute.so \
-    vendor/xiaomi/whyred/proprietary/lib/libaudiospdif.so:system/lib/libaudiospdif.so \
-    vendor/xiaomi/whyred/proprietary/lib/libaudioutils.so:system/lib/libaudioutils.so \
     vendor/xiaomi/whyred/proprietary/lib/libcamera2ndk.so:system/lib/libcamera2ndk.so \
     vendor/xiaomi/whyred/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
     vendor/xiaomi/whyred/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
@@ -872,20 +856,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/lib64/libFileMux.so:system/lib64/libFileMux.so \
     vendor/xiaomi/whyred/proprietary/lib64/libGPTEE_system.so:system/lib64/libGPTEE_system.so \
     vendor/xiaomi/whyred/proprietary/lib64/libQTEEConnector_system.so:system/lib64/libQTEEConnector_system.so \
-    vendor/xiaomi/whyred/proprietary/lib64/libaudio-resampler.so:system/lib64/libaudio-resampler.so \
-    vendor/xiaomi/whyred/proprietary/lib64/libaudioclient.so:system/lib64/libaudioclient.so \
-    vendor/xiaomi/whyred/proprietary/lib64/libaudioeffect_jni.so:system/lib64/libaudioeffect_jni.so \
-    vendor/xiaomi/whyred/proprietary/lib64/libaudioflinger.so:system/lib64/libaudioflinger.so \
-    vendor/xiaomi/whyred/proprietary/lib64/libaudiohal.so:system/lib64/libaudiohal.so \
-    vendor/xiaomi/whyred/proprietary/lib64/libaudiomanager.so:system/lib64/libaudiomanager.so \
-    vendor/xiaomi/whyred/proprietary/lib64/libaudiopolicyenginedefault.so:system/lib64/libaudiopolicyenginedefault.so \
-    vendor/xiaomi/whyred/proprietary/lib64/libaudiopolicymanager.so:system/lib64/libaudiopolicymanager.so \
-    vendor/xiaomi/whyred/proprietary/lib64/libaudiopolicymanagerdefault.so:system/lib64/libaudiopolicymanagerdefault.so \
-    vendor/xiaomi/whyred/proprietary/lib64/libaudiopolicyservice.so:system/lib64/libaudiopolicyservice.so \
-    vendor/xiaomi/whyred/proprietary/lib64/libaudioprocessing.so:system/lib64/libaudioprocessing.so \
-    vendor/xiaomi/whyred/proprietary/lib64/libaudioroute.so:system/lib64/libaudioroute.so \
-    vendor/xiaomi/whyred/proprietary/lib64/libaudiospdif.so:system/lib64/libaudiospdif.so \
-    vendor/xiaomi/whyred/proprietary/lib64/libaudioutils.so:system/lib64/libaudioutils.so \
     vendor/xiaomi/whyred/proprietary/lib64/libdiag_system.so:system/lib64/libdiag_system.so \
     vendor/xiaomi/whyred/proprietary/lib64/libdpmctmgr.so:system/lib64/libdpmctmgr.so \
     vendor/xiaomi/whyred/proprietary/lib64/libdpmfdmgr.so:system/lib64/libdpmfdmgr.so \
