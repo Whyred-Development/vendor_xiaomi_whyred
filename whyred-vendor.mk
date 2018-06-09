@@ -41,7 +41,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/etc/permissions/vendor-qti-hardware-alarm.xml:system/etc/permissions/vendor-qti-hardware-alarm.xml \
     vendor/xiaomi/whyred/proprietary/etc/scve/facereco/gModel.dat:system/etc/scve/facereco/gModel.dat \
     vendor/xiaomi/whyred/proprietary/etc/spn-conf.xml:system/etc/spn-conf.xml \
-    vendor/xiaomi/whyred/proprietary/lib/fm_helium.so:system/lib/fm_helium.so \
     vendor/xiaomi/whyred/proprietary/lib/libFidoCryptoJNI.so:system/lib/libFidoCryptoJNI.so \
     vendor/xiaomi/whyred/proprietary/lib/libFidoCrypto_system.so:system/lib/libFidoCrypto_system.so \
     vendor/xiaomi/whyred/proprietary/lib/libOmxMux.so:system/lib/libOmxMux.so \
@@ -74,7 +73,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/lib/libfdpp.so:system/lib/libfdpp.so \
     vendor/xiaomi/whyred/proprietary/lib/libfdpp_jni.so:system/lib/libfdpp_jni.so \
     vendor/xiaomi/whyred/proprietary/lib/libfiltergenerator.so:system/lib/libfiltergenerator.so \
-    vendor/xiaomi/whyred/proprietary/lib/libfm-hci.so:system/lib/libfm-hci.so \
     vendor/xiaomi/whyred/proprietary/lib/libgifimage.so:system/lib/libgifimage.so \
     vendor/xiaomi/whyred/proprietary/lib/libhazebuster.so:system/lib/libhazebuster.so \
     vendor/xiaomi/whyred/proprietary/lib/libhttpserver.so:system/lib/libhttpserver.so \
@@ -107,7 +105,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/lib/liboctvm_runtime.so:system/lib/liboctvm_runtime.so \
     vendor/xiaomi/whyred/proprietary/lib/liboctvm_utils.so:system/lib/liboctvm_utils.so \
     vendor/xiaomi/whyred/proprietary/lib/liboptizoom.so:system/lib/liboptizoom.so \
-    vendor/xiaomi/whyred/proprietary/lib/libqcomfm_jni.so:system/lib/libqcomfm_jni.so \
     vendor/xiaomi/whyred/proprietary/lib/libqct_resampler.so:system/lib/libqct_resampler.so \
     vendor/xiaomi/whyred/proprietary/lib/libqmi_cci_system.so:system/lib/libqmi_cci_system.so \
     vendor/xiaomi/whyred/proprietary/lib/libqsap_sdk.so:system/lib/libqsap_sdk.so \
@@ -170,7 +167,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/lib/rfsa/adsp/libscveFaceLandmark_skel.so:system/lib/rfsa/adsp/libscveFaceLandmark_skel.so \
     vendor/xiaomi/whyred/proprietary/lib/rfsa/adsp/libscveT2T_skel.so:system/lib/rfsa/adsp/libscveT2T_skel.so \
     vendor/xiaomi/whyred/proprietary/lib/sensors.hal.tof.so:system/lib/sensors.hal.tof.so \
-    vendor/xiaomi/whyred/proprietary/lib64/fm_helium.so:system/lib64/fm_helium.so \
     vendor/xiaomi/whyred/proprietary/lib64/libFidoCryptoJNI.so:system/lib64/libFidoCryptoJNI.so \
     vendor/xiaomi/whyred/proprietary/lib64/libFidoCrypto_system.so:system/lib64/libFidoCrypto_system.so \
     vendor/xiaomi/whyred/proprietary/lib64/libMegviiUnlock-jni-1.2.so:system/lib64/libMegviiUnlock-jni-1.2.so \
@@ -204,8 +200,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/lib64/libfastcvopt.so:system/lib64/libfastcvopt.so \
     vendor/xiaomi/whyred/proprietary/lib64/libfdpp.so:system/lib64/libfdpp.so \
     vendor/xiaomi/whyred/proprietary/lib64/libfdpp_jni.so:system/lib64/libfdpp_jni.so \
-    vendor/xiaomi/whyred/proprietary/lib64/libfm-hci.so:system/lib64/libfm-hci.so \
-    vendor/xiaomi/whyred/proprietary/lib64/libfmp_snpe_cv.so:system/lib64/libfmp_snpe_cv.so \
     vendor/xiaomi/whyred/proprietary/lib64/libgnustl_shared.so:system/lib64/libgnustl_shared.so \
     vendor/xiaomi/whyred/proprietary/lib64/libhazebuster.so:system/lib64/libhazebuster.so \
     vendor/xiaomi/whyred/proprietary/lib64/libhttpserver.so:system/lib64/libhttpserver.so \
@@ -245,7 +239,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/lib64/liboctvm_runtime.so:system/lib64/liboctvm_runtime.so \
     vendor/xiaomi/whyred/proprietary/lib64/liboctvm_utils.so:system/lib64/liboctvm_utils.so \
     vendor/xiaomi/whyred/proprietary/lib64/liboptizoom.so:system/lib64/liboptizoom.so \
-    vendor/xiaomi/whyred/proprietary/lib64/libqcomfm_jni.so:system/lib64/libqcomfm_jni.so \
     vendor/xiaomi/whyred/proprietary/lib64/libqmi_cci_system.so:system/lib64/libqmi_cci_system.so \
     vendor/xiaomi/whyred/proprietary/lib64/libqsap_sdk.so:system/lib64/libqsap_sdk.so \
     vendor/xiaomi/whyred/proprietary/lib64/libqti-at.so:system/lib64/libqti-at.so \
