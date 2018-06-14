@@ -41,6 +41,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/whyred/proprietary/etc/permissions/vendor-qti-hardware-alarm.xml:system/etc/permissions/vendor-qti-hardware-alarm.xml \
     vendor/xiaomi/whyred/proprietary/etc/scve/facereco/gModel.dat:system/etc/scve/facereco/gModel.dat \
     vendor/xiaomi/whyred/proprietary/etc/spn-conf.xml:system/etc/spn-conf.xml \
+    vendor/xiaomi/whyred/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \
     vendor/xiaomi/whyred/proprietary/lib/fm_helium.so:system/lib/fm_helium.so \
     vendor/xiaomi/whyred/proprietary/lib/libFidoCryptoJNI.so:system/lib/libFidoCryptoJNI.so \
     vendor/xiaomi/whyred/proprietary/lib/libFidoCrypto_system.so:system/lib/libFidoCrypto_system.so \
