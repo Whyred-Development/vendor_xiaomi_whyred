@@ -1820,7 +1820,6 @@ PRODUCT_PACKAGES += \
     dpmserviceapp \
     qcrilmsgtunnel \
     ims \
-    imssettings \
     CABLService \
     PowerOffAlarm \
     QDMA-UI \
